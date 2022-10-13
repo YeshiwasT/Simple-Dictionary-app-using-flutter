@@ -16,6 +16,10 @@ This project used <a href="https://docs.hivedb.dev/#/">Hive</a>  to store,delete
 <h2>Demo</h2>
 <p>
 <img src="https://github.com/YeshiwasT/Simple-Dictionary-app-using-flutter/blob/master/dictionary_github.gif" >
+<img src="https://github.com/YeshiwasT/Simple-Dictionary-app-using-flutter/blob/master/1.jpg" height="320" width="150" >
+<img src="https://github.com/YeshiwasT/Simple-Dictionary-app-using-flutter/blob/master/2.jpg" height="200" width="200">
+<img src="https://github.com/YeshiwasT/Simple-Dictionary-app-using-flutter/blob/master/3.jpg" height="200" width="200" >
+<img src="https://github.com/YeshiwasT/Simple-Dictionary-app-using-flutter/blob/master/4.jpg" height="200" width="200" >
 </p>
 <!---
 
