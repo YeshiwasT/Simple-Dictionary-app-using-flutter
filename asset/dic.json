@@ -1,0 +1,183 @@
+{
+  "words":
+  [{   
+      "yemsa": "canna",
+      "amharic": "ዉሻ",
+      "english":"dog",
+      "example": {
+          "examYema":[
+           "han canna elidiffar"
+          ],
+          "examAmharic":[
+           "ይሄ ዉሻ እየሮጠ ነዉ::"       
+          ],
+           "examEnglish":
+           [
+            "This dog is running"
+           ] }
+     }  ,
+    {     
+         "yemsa": "akko",
+          "amharic": "ዶሮ",
+          "english":"chicken",
+         "example":   
+          {             
+              "examYema": [
+                "ako wagera yowa",
+                                ""
+              ],       
+              "examAmharic":[
+                "ዶሮ ገዝተህ ና", 
+                ""
+              ],
+               "examEnglish":[
+                "could you  please buy chicken from the market"
+               ]
+    
+          }
+        } , {   
+          "yemsa": "Wosto",
+          "amharic": "Sira",
+          "english":"Work",
+          "example": {
+              "examYema":[
+               ""
+              ],
+              "examAmharic":[
+               ""       
+              ],
+               "examEnglish":
+               [
+                ""
+               ] }
+         }  ,
+        {     
+             "yemsa": "Haani",
+              "amharic": "Ezhi",
+              "english":"Here",
+             "example":   
+              {             
+                  "examYema": [
+                    "",
+                                    ""
+                  ],       
+                  "examAmharic":[
+                    "", 
+                    ""
+                  ],
+                   "examEnglish":[
+                    ""
+                   ]
+        
+              }
+            } , {   
+              "yemsa": "Arka",
+              "amharic": "wend",
+              "english":"male",
+              "example": {
+                  "examYema":[
+                   ""
+                  ],
+                  "examAmharic":[
+                   ""       
+                  ],
+                   "examEnglish":
+                   [
+                    ""
+                   ] }
+             }  ,
+            {     
+                 "yemsa": "Mashika",
+                  "amharic": "Set",
+                  "english":"Women",
+                 "example":   
+                  {             
+                      "examYema": [
+                        "",
+                                        ""
+                      ],       
+                      "examAmharic":[
+                        "", 
+                        ""
+                      ],
+                       "examEnglish":[
+                        ""
+                       ]
+            
+                  }
+                } , {   
+                  "yemsa": "Soma",
+                  "amharic": "Tsegur",
+                  "english":"hair",
+                  "example": {
+                      "examYema":[
+                       ""
+                      ],
+                      "examAmharic":[
+                       ""       
+                      ],
+                       "examEnglish":
+                       [
+                        ""
+                       ] }
+                 }  ,
+                {     
+                     "yemsa": "Nango",
+                      "amharic": "Lijoch",
+                      "english":"children",
+                     "example":   
+                      {             
+                          "examYema": [
+                            "",
+                                            ""
+                          ],       
+                          "examAmharic":[
+                            "", 
+                            ""
+                          ],
+                           "examEnglish":[
+                            ""
+                           ]
+                
+                      }
+                    } , {   
+                      "yemsa": "Mai",
+                      "amharic": "Eshi",
+                      "english":"Ok",
+                      "example": {
+                          "examYema":[
+                           ""
+                          ],
+                          "examAmharic":[
+                           ""       
+                          ],
+                           "examEnglish":
+                           [
+                            ""
+                           ] }
+                     }  ,
+                    {     
+                         "yemsa": "yee",
+                          "amharic": "Meta",
+                          "english":"He came",
+                         "example":   
+                          {             
+                              "examYema": [
+                                "",
+                                                ""
+                              ],       
+                              "examAmharic":[
+                                "", 
+                                ""
+                              ],
+                               "examEnglish":[
+                                ""
+                               ]
+                    
+                          }
+                        }  
+
+
+
+] 
+    }
