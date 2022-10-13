@@ -13,6 +13,7 @@ This project used <a href="https://docs.hivedb.dev/#/">Hive</a>  to store,delete
 
 <b>Yemsa</b> is the language of the Yem people(found in Ethiopia South nation nationality region yem special woreda) of the former Kingdom of Yamma, known as Kingdom of Janjero , It is a member of the Omotic group of languages.
 </p>
+<h2>Demo</h2>
 <p>
 <img src="https://github.com/YeshiwasT/Simple-Dictionary-app-using-flutter/blob/master/dictionary_github.gif" >
 </p>
